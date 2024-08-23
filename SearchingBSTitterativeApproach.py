@@ -19,7 +19,6 @@ def search(root, key):
     return None
 
 
-# Driver Code
 if __name__ == "__main__":
     root = Node(50)
     root.left = Node(30)
